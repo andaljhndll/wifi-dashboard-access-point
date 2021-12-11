@@ -1,17 +1,3 @@
 {
-  "totalEventCounts": 1000,
-  "totalApCounts": 200,
-  "topApInformation": [
-    {
-      "bssid": "bssid::12::1",
-      "count": 100
-    },
-    {
-      "bssid": "bssid::12::2",
-      "count": 100
-    }
-  ],
-  "remainderAps": 180,
-  "remainderEventCount": 800,
-  "timestamp" : 1632974760829
+  "totalEventCounts": 69
 }
